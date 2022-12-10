@@ -1,4 +1,4 @@
-## Olá! Eu sou o Burso
+## Olá! Eu sou o Guilherme Tibúrcio
 ![Burso GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoeUSz&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
