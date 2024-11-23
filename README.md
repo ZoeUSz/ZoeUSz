@@ -10,4 +10,5 @@
   <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="nosql" src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div><br/>
