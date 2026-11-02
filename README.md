@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Tibúrcio 👋
 
-Estudante de Engenharia, focado em back-end com Java/Spring, desenvolvimento mobile com Flutter, IoT com Raspberry Pi e jogos no Roblox.
+Estudante de Engenharia, focado em back-end com Java/Spring, desenvolvimento mobile com Flutter, IoT com Raspberry Pi.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoeUSz&show_icons=true&theme=dracula&count_private=true)
 
@@ -19,7 +19,6 @@ Estudante de Engenharia, focado em back-end com Java/Spring, desenvolvimento mob
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ### Mobile e IoT
