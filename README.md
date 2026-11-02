@@ -29,13 +29,6 @@ Estudante de Engenharia, focado em back-end com Java/Spring, desenvolvimento mob
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
-### Game dev
-<p>
-  <img alt="Roblox Studio" src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white"/>
-  <img alt="Luau" src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img alt="Rojo" src="https://img.shields.io/badge/Rojo-E13835?style=for-the-badge&logo=roblox&logoColor=white"/>
-</p>
-
 ### DevOps, infra e ferramentas
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
